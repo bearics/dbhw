@@ -40,7 +40,7 @@
 <body>
 
 <%-- main menu in header Area --%>
-<header id="header" id="home">
+<header id="header" id="home" style="background: rgba(0, 0, 0, 0.4);">
   <div class="container">
     <div class="row align-items-center justify-content-between d-flex">
       <div id="logo">
@@ -48,8 +48,8 @@
       </div>
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="#home">Home</a></li>
-          <li><a href="#service">Freeboard</a></li>
+            <li class="menu-active"><a href="index.jsp">Home</a></li>
+            <li><a href="board.jsp">Freeboard</a></li>
           <li class="menu-has-children"><a href="">Pages</a>
             <ul>
               <li><a href="generic.html">Generic</a></li>

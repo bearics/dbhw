@@ -7,90 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13a2adab-2588-4e91-babf-8013e6040215" name="Default" comment="Add main page">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/bootstrap/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/jquery.DonutWidget.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/jquerysctipttop.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/linearicons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/main.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/nice-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/css/theme/pages.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/Linearicons-Free.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/Linearicons-Free.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/Linearicons-Free.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/Linearicons-Free.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/Linearicons-Free.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/about-img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/b1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/b2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/a.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/a2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/d.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/disabled-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/disabled-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/f1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/f2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/f3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/f4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/f5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/f6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/f7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/f8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/g1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/g2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/g3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/g4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/g5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/g6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/g7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/g8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/primary-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/primary-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/success-check.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/elements/success-radio.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/f1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/f2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/footlogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/header-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/laptop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/play-btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/t1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/t2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/t3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/img/video-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/hoverIntent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery.ajaxchimp.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery.nice-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/jquery.sticky.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/mail-script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/parallax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/slick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/superfish.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/superfish.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/vendor/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/js/vendor/jquery-2.2.4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/dbhw_war_exploded/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dbhw_war_exploded/css/bootstrap.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/dbhw_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/dbhw_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -108,10 +28,30 @@
           <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/web/index.jsp">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="354">
-                  <caret line="98" column="60" lean-forward="true" selection-start-line="98" selection-start-column="60" selection-end-line="98" selection-end-column="60" />
+                <state relative-caret-position="112">
+                  <caret line="44" column="67" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="67" />
                   <folding>
-                    <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="board.jsp" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/board.jsp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="293">
+                  <caret line="51" column="66" lean-forward="true" selection-start-line="51" selection-start-column="66" selection-end-line="51" selection-end-column="66" />
+                  <folding>
+                    <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#nav#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+                    <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#canvas#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
                 </state>
@@ -125,8 +65,8 @@
           <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/web/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="401">
-                  <caret line="3030" column="14" lean-forward="true" selection-start-line="3030" selection-start-column="14" selection-end-line="3030" selection-end-column="14" />
+                <state relative-caret-position="165">
+                  <caret line="1973" column="16" lean-forward="true" selection-start-line="1973" selection-start-column="16" selection-end-line="1973" selection-end-column="16" />
                 </state>
               </provider>
             </entry>
@@ -149,7 +89,6 @@
       <find>banner-content</find>
       <find>bg</find>
       <find>about a</find>
-      <find>header</find>
       <find>200px</find>
       <find>slider</find>
       <find>footer-area</find>
@@ -159,6 +98,9 @@
       <find>footer</find>
       <find>icon</find>
       <find>login-register-form</find>
+      <find>rgba</find>
+      <find>header</find>
+      <find>section</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\bearics\IdeaProjects\dbhw\web</dir>
@@ -170,8 +112,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/css/main.css" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/css/main.css" />
+        <option value="$PROJECT_DIR$/web/board.jsp" />
       </list>
     </option>
   </component>
@@ -203,7 +146,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,12 +164,25 @@
               <item name="dbhw" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dbhw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dbhw" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dbhw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dbhw" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -492,8 +448,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.jsp" />
         <item itemvalue="Tomcat Server.index.jsp" />
+        <item itemvalue="JavaScript Debug.index.jsp" />
       </list>
     </recent_temporary>
   </component>
@@ -512,53 +468,53 @@
       <workItem from="1527596418320" duration="358000" />
       <workItem from="1527596910946" duration="87000" />
       <workItem from="1527597501922" duration="3813000" />
-      <workItem from="1527601587862" duration="12101000" />
+      <workItem from="1527601587862" duration="13829000" />
+      <workItem from="1527617534020" duration="1634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17175000" />
+    <option name="totallyTimeSpent" value="20537000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.32947367" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.15729167" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49947917" weight="0.32947367" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.3263158" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005208" side_tool="true" weight="0.32947367" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.3261339" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32937366" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.153125" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.153125" />
       <window_info id="Web" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32947367" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.15729167" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947367" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.3263158" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.3263158" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -566,6 +522,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005208" side_tool="true" visible="true" weight="0.32947367" />
       <window_info active="true" anchor="bottom" id="Messages" order="9" sideWeight="0.49947917" visible="true" weight="0.32947367" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -605,16 +562,52 @@
           <properties />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4978">
+          <caret line="262" column="48" lean-forward="true" selection-start-line="262" selection-start-column="48" selection-end-line="262" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/board.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4902">
+          <caret line="258" column="43" selection-start-line="258" selection-start-column="43" selection-end-line="258" selection-end-column="43" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#nav#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57342">
+          <caret line="3018" lean-forward="true" selection-start-line="3018" selection-end-line="3018" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1406">
           <caret line="74" column="31" lean-forward="true" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
           <folding>
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
@@ -697,20 +690,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/img/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/linearicons.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
           <caret line="327" column="21" lean-forward="true" selection-start-line="327" selection-start-column="21" selection-end-line="327" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="3030" column="14" lean-forward="true" selection-start-line="3030" selection-start-column="14" selection-end-line="3030" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -728,18 +711,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/fonts/Linearicons-Free.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/web/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="1973" column="16" lean-forward="true" selection-start-line="1973" selection-start-column="16" selection-end-line="1973" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/fonts/fontawesome-webfont.svg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/web/board.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="51" column="66" lean-forward="true" selection-start-line="51" selection-start-column="66" selection-end-line="51" selection-end-column="66" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#nav#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#canvas#0;n#main#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="98" column="60" lean-forward="true" selection-start-line="98" selection-start-column="60" selection-end-line="98" selection-end-column="60" />
+        <state relative-caret-position="112">
+          <caret line="44" column="67" selection-start-line="44" selection-start-column="66" selection-end-line="44" selection-end-column="67" />
           <folding>
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
