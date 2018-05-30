@@ -47,13 +47,13 @@
             </div>
             <nav id="nav-menu-container">
                 <ul class="nav-menu">
-                    <li class="menu-active"><a href="index.jsp">Home</a></li>
-                    <li><a href="free.jsp">Freeboard</a></li>
-                    <li class="menu-has-children"><a href="">Pages</a>
+                    <li class="menu-active"><a href="index.jsp">메인</a></li>
+                    <li><a href="free.jsp">자유게시판</a></li>
+                    <li class="menu-has-children"><a href="classroom.jsp">학습지원실</a>
                         <ul>
-                            <li><a href="lecture.jsp">강의자료실</a></li>
-                            <li><a href="student.jsp">학생자료실</a></li>
-                            <li><a href="admin.jsp">수강생관리</a></li>
+                            <li><a href="classroom.jsp?bbs=lecture">강의자료실</a></li>
+                            <li><a href="classroom.jsp?bbs=student">학생자료실</a></li>
+                            <li><a href="classroom.jsp?bbs=admin">수강생관리</a></li>
                         </ul>
                     </li>
                     <li><a class="ticker-btn" href="#"  data-toggle="modal" data-target="#login-register-form">Login</a></li>

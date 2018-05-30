@@ -1,5 +1,12 @@
+// $.urlParam = function(name){
+//     var results = new RegExp('[\?&amp;]' + name + '=([^&amp;#]*)').exec(window.location.href);
+//     return results[1] || 0;
+// }
 
 $(document).ready(function(){
+    // $('#v-pills-tab').children('.active').attr('active', '');
+    // $('#v-pills-tab').children('#v-pills'+$.urlParam('bbs')).addClass('active');
+
 	"use strict";
 
 	var window_width 	 = $(window).width(),

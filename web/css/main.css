@@ -3039,7 +3039,20 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin: 0
 }
 
+.nav-item>a {
+    width:100%;
+}
+
+.nav-item>a:hover {
+    background: #9fcdff;
+}
 
 .container-fluid {
     padding-top: 80px;
+}
+
+.nav-link.active {
+    border-radius: 0px;
+    background: #3bacf0 !important;
+
 }
