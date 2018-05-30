@@ -51,8 +51,9 @@
                     <li><a href="free.jsp">Freeboard</a></li>
                     <li class="menu-has-children"><a href="">Pages</a>
                         <ul>
-                            <li><a href="generic.html">강의자료실</a></li>
-                            <li><a href="elements.html">학생자료실</a></li>
+                            <li><a href="lecture.jsp">강의자료실</a></li>
+                            <li><a href="student.jsp">학생자료실</a></li>
+                            <li><a href="admin.jsp">수강생관리</a></li>
                         </ul>
                     </li>
                     <li><a class="ticker-btn" href="#"  data-toggle="modal" data-target="#login-register-form">Login</a></li>

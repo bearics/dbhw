@@ -115,6 +115,7 @@
     </div>
 </section>
 <%-- end fluid area--%>
+
 <jsp:include page="bottom.jsp" flush="true"/>
 
 
